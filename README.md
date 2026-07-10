@@ -23,6 +23,9 @@ Most of what I build is practical automation: tools that take a repetitive manua
 
 | Project | What it is |
 | --- | --- |
+| [**powershell-helpdesk-toolkit**](https://github.com/portal-source/powershell-helpdesk-toolkit) | PowerShell scripts for the weekly service-desk jobs — bulk user creation, stale-account audits, disk reports, safe offboarding — all with `-WhatIf` dry-run support. |
+| [**subnet-calculator**](https://github.com/portal-source/subnet-calculator) | [Live web tool](https://portal-source.github.io/subnet-calculator/) that shows the binary maths behind subnetting, not just the answer. Vanilla JS, 23 tests. |
+| [**it-runbooks**](https://github.com/portal-source/it-runbooks) | Service-desk runbooks with triage order, escalation criteria, and what to actually say to the user. |
 | [**stream-clip-detector**](https://github.com/portal-source/stream-clip-detector) | Python tool that monitors live streams, scores activity spikes statistically, and cuts clips automatically with FFmpeg. Built because clipping by hand was eating hours. |
 | [**youtube-autopilot**](https://github.com/portal-source/youtube-autopilot) | Modular Python pipeline that turns a topic into a narrated video — script, images, voiceover, assembly. Each stage can be re-run independently. |
 | [**home-teleport-city**](https://github.com/portal-source/home-teleport-city) | A hand-written HTML/CSS fantasy site, live on Neocities. No framework, no build step — proof I can make the web do things with just the fundamentals. |
@@ -32,7 +35,7 @@ Most of what I build is practical automation: tools that take a repetitive manua
 ### 📚 Currently
 
 - **Information Technology @ QUT** — software development, databases, networking fundamentals
-- Building out IT-support-focused projects (PowerShell tooling, documentation practice)
+- Next up: an Active Directory home lab, so the AD paths in my PowerShell toolkit get tested as thoroughly as the local ones
 
 ---
 
