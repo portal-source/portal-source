@@ -1,8 +1,8 @@
-# Hi, I'm a Brisbane-based IT student who builds automation tools 👋
+# Hi, I'm a Brisbane-based IT student at QUT 👋
 
-IT student at **QUT**, currently working toward entry-level IT and junior developer roles in Brisbane. I come from a background in **customer service and operations**, so I'm used to solving messy real-world problems under time pressure — I just do it with code now.
+I'm working toward **IT support / service desk roles** in Brisbane, with junior web development as a second string. My background is customer service and operations, so I'm comfortable being the calm person between a frustrated user and a technical problem — I just bring scripting and automation to the table as well.
 
-Most of what I build is automation: tools that take a repetitive, manual job and turn it into a pipeline that runs itself. I learn by shipping things that actually have to work, not just tutorials.
+Most of what I build is practical automation: tools that take a repetitive manual job and make it run itself. I learn by shipping things that have to actually work, then fixing them when they don't.
 
 ---
 
@@ -15,31 +15,27 @@ Most of what I build is automation: tools that take a repetitive, manual job and
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-### 📚 Currently studying
+### 🚀 Projects
 
-- **Information Technology @ QUT** — core software development, databases, and networking fundamentals
-- Working through **data structures & algorithms** to tighten up my problem-solving
-- Getting hands-on with **APIs and automation** — REST clients, rate limiting, scheduling, and error handling that doesn't fall over
-
----
-
-### 🚀 What I'm building
-
-| Project | What it does |
+| Project | What it is |
 | --- | --- |
-| [**youtube-autopilot**](https://github.com/portal-source/youtube-autopilot) | A 22-module, end-to-end pipeline that takes a topic and produces a finished YouTube video — script, images, narration, and assembly — with no manual steps in between. |
-| [**stream-clip-detector**](https://github.com/portal-source/stream-clip-detector) | A multi-threaded app that watches live streams, detects hype moments with statistical analysis, and auto-generates ready-to-post clips with burned-in captions. |
-
-Both started as "I'm tired of doing this by hand" and turned into real systems with config files, logging, and a fair amount of debugging.
+| [**stream-clip-detector**](https://github.com/portal-source/stream-clip-detector) | Python tool that monitors live streams, scores activity spikes statistically, and cuts clips automatically with FFmpeg. Built because clipping by hand was eating hours. |
+| [**youtube-autopilot**](https://github.com/portal-source/youtube-autopilot) | Modular Python pipeline that turns a topic into a narrated video — script, images, voiceover, assembly. Each stage can be re-run independently. |
+| [**home-teleport-city**](https://github.com/portal-source/home-teleport-city) | A hand-written HTML/CSS fantasy site, live on Neocities. No framework, no build step — proof I can make the web do things with just the fundamentals. |
 
 ---
 
-### 📫 How to reach me
+### 📚 Currently
 
-- Open to **entry-level IT / junior developer roles in Brisbane**
-- Best reached via the email on my GitHub profile
+- **Information Technology @ QUT** — software development, databases, networking fundamentals
+- Building out IT-support-focused projects (PowerShell tooling, documentation practice)
 
-<sub>Always happy to talk about automation, scripting, or how to make a tedious task disappear.</sub>
+---
+
+### 📫 Contact
+
+Open to **IT support / service desk and junior web roles in Brisbane** — reach me via the email on my profile.
